@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hzamz
+- 👋 Hi, I’m @amz63
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
